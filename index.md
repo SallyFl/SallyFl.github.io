@@ -6,7 +6,7 @@ A coding project using data from the collection of the [Australian National Mari
 
 [Prototype map of multiple voyages](https://sallyfl.github.io/multipleVoyages/) from the museum's collections using test data only.
 
-[Life on the Ocean Waves - a mp of multiple voyages](https://sallyfl.github.io/oceanWaves/) using real collection data based on journals, logbooks, diaries and letters in the collection.
+[Life on the Ocean Waves - a map of multiple voyages](https://sallyfl.github.io/oceanWaves/) using real collection data based on journals, logbooks, diaries and letters in the collection.
 
 
 
