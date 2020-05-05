@@ -8,7 +8,7 @@ A coding project using data from the collection of the [Australian National Mari
 
 [Life on the Ocean Waves - a map of multiple voyages](https://sallyfl.github.io/oceanWaves/) using real collection data based on journals, logbooks, diaries and letters in the collection.
 
-A project looking at the distribution of [objects in the collection through word tags including topic, vessel name and shipping company name over time](https://sallyfl.github.io/termDots/)
+A project looking at the distribution of [objects in the collection](https://sallyfl.github.io/termDots/)through word tags including topic, vessel name and shipping company name over time.
 
 
 
